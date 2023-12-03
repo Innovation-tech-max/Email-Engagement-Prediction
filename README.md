@@ -18,10 +18,12 @@ This project predicts email engagement, a crucial aspect of marketing strategies
 
 - **Next Steps:** Identify areas for improvement, suggest future enhancements, and outline a roadmap.
 
+  ## Usage
+- Explore Jupyter notebooks in the notebooks directory.
+
 ## Installation
 
 ```bash
 git clone https://github.com/your-username/email-engagement-prediction.git
 
-## Usage
-- Explore Jupyter notebooks in the notebooks directory.
+
