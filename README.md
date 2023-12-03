@@ -19,7 +19,7 @@ This project predicts email engagement, a crucial aspect of marketing strategies
 - **Next Steps:** Identify areas for improvement, suggest future enhancements, and outline a roadmap.
 
   ## Usage
-- Explore Jupyter notebooks in the notebooks directory.
+- Explore Jupyter notebooks in the notebooks - EDA and Modelling.
 
 ## Installation
 
